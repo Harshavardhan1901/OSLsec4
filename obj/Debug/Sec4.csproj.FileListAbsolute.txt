@@ -1,0 +1,8 @@
+D:\M\OSL\Sec4\Sec4\bin\Debug\Sec4.exe.config
+D:\M\OSL\Sec4\Sec4\bin\Debug\Sec4.exe
+D:\M\OSL\Sec4\Sec4\bin\Debug\Sec4.pdb
+D:\M\OSL\Sec4\Sec4\obj\Debug\Sec4.csproj.AssemblyReference.cache
+D:\M\OSL\Sec4\Sec4\obj\Debug\Sec4.csproj.SuggestedBindingRedirects.cache
+D:\M\OSL\Sec4\Sec4\obj\Debug\Sec4.csproj.CoreCompileInputs.cache
+D:\M\OSL\Sec4\Sec4\obj\Debug\Sec4.exe
+D:\M\OSL\Sec4\Sec4\obj\Debug\Sec4.pdb
